@@ -1,0 +1,502 @@
+{
+  "1": {
+    "name": "Osborne House, Isle of Wight, UK",
+    "coordinates": [50.7295, -1.2707],
+    "message": "Osborne House, UK: In 1901, Queen Victoria died here at the age of 81, ending the Victorian era that shaped the modern world."
+  },
+  "2": {
+    "name": "Washington, D.C., USA",
+    "coordinates": [38.9072, -77.0369],
+    "message": "Washington, D.C., USA: In 1902, the first Rose Bowl game was played, marking the beginning of college football bowl games."
+  },
+  "3": {
+    "name": "Kitty Hawk, North Carolina, USA",
+    "coordinates": [36.0648, -75.7059],
+    "message": "Kitty Hawk, USA: In 1903, the Wright Brothers achieved the first powered, controlled airplane flight here."
+  },
+  "4": {
+    "name": "St. Louis, Missouri, USA",
+    "coordinates": [38.6270, -90.1994],
+    "message": "St. Louis, USA: In 1904, the Summer Olympics were held here, the first Olympics held in the United States."
+  },
+  "5": {
+    "name": "Princeton, New Jersey, USA",
+    "coordinates": [40.3573, -74.6672],
+    "message": "Princeton, USA: In 1905, Albert Einstein published his theory of special relativity while working at the patent office."
+  },
+  "6": {
+    "name": "San Francisco, California, USA",
+    "coordinates": [37.7749, -122.4194],
+    "message": "San Francisco, USA: In 1906, a devastating earthquake struck here, destroying much of the city."
+  },
+  "7": {
+    "name": "Paris, France",
+    "coordinates": [48.8566, 2.3522],
+    "message": "Paris, France: In 1907, Pablo Picasso painted 'Les Demoiselles d'Avignon,' revolutionizing modern art."
+  },
+  "8": {
+    "name": "Detroit, Michigan, USA",
+    "coordinates": [42.3314, -83.0458],
+    "message": "Detroit, USA: In 1908, the Ford Model T went into production here, making automobiles affordable for the masses."
+  },
+  "9": {
+    "name": "North Pole",
+    "coordinates": [90.0000, 0.0000],
+    "message": "Arctic: In 1909, Robert Peary claimed to have reached the North Pole, though this has been disputed."
+  },
+  "10": {
+    "name": "Hollywood, California, USA",
+    "coordinates": [34.0928, -118.3287],
+    "message": "Hollywood, USA: In 1910, the first Hollywood film studio opened, marking the birth of the movie industry."
+  },
+  "11": {
+    "name": "Machu Picchu, Peru",
+    "coordinates": [-13.1631, -72.5450],
+    "message": "Machu Picchu, Peru: In 1911, Hiram Bingham 'rediscovered' this ancient Incan city, bringing it to world attention."
+  },
+  "12": {
+    "name": "Atlantic Ocean",
+    "coordinates": [0.0000, -30.0000],
+    "message": "Atlantic Ocean: In 1912, the RMS Titanic sank here after hitting an iceberg, leading to major maritime safety reforms."
+  },
+  "13": {
+    "name": "New York City, USA",
+    "coordinates": [40.7128, -74.0060],
+    "message": "New York City, USA: In 1913, the Armory Show introduced modern art to America, shocking the public."
+  },
+  "14": {
+    "name": "Cleveland, Ohio, USA",
+    "coordinates": [41.4993, -81.6944],
+    "message": "Cleveland, USA: In 1914, the first electric traffic light was installed here, improving urban safety."
+  },
+  "15": {
+    "name": "San Francisco to New York",
+    "coordinates": [39.8283, -98.5795],
+    "message": "Transcontinental USA: In 1915, the first transcontinental telephone call was made from coast to coast."
+  },
+  "16": {
+    "name": "Memphis, Tennessee, USA",
+    "coordinates": [35.1174, -89.9711],
+    "message": "Memphis, USA: In 1916, the first self-service grocery store opened here, revolutionizing retail."
+  },
+  "17": {
+    "name": "Washington, D.C., USA",
+    "coordinates": [38.9072, -77.0369],
+    "message": "Washington, D.C., USA: In 1917, the United States entered World War I, changing the course of the war."
+  },
+  "18": {
+    "name": "Paris, France",
+    "coordinates": [48.8566, 2.3522],
+    "message": "Paris, France: In 1918, World War I ended with the armistice signed here, bringing peace to Europe."
+  },
+  "19": {
+    "name": "Grand Canyon, Arizona, USA",
+    "coordinates": [36.1069, -112.1129],
+    "message": "Grand Canyon, USA: In 1919, the Grand Canyon was designated a National Park, preserving this natural wonder."
+  },
+  "20": {
+    "name": "Washington, D.C., USA",
+    "coordinates": [38.9072, -77.0369],
+    "message": "Washington, D.C., USA: In 1920, the 19th Amendment was ratified, giving women the right to vote."
+  },
+  "21": {
+    "name": "Toronto, Canada",
+    "coordinates": [43.6532, -79.3832],
+    "message": "Toronto, Canada: In 1921, insulin was first used to treat diabetes here, saving millions of lives."
+  },
+  "22": {
+    "name": "Luxor, Egypt",
+    "coordinates": [25.6872, 32.6396],
+    "message": "Luxor, Egypt: In 1922, Howard Carter discovered King Tut's tomb here, the most intact pharaoh's tomb ever found."
+  },
+  "23": {
+    "name": "New York City, USA",
+    "coordinates": [40.7128, -74.0060],
+    "message": "New York City, USA: In 1923, Time magazine was first published here, becoming a cornerstone of journalism."
+  },
+  "24": {
+    "name": "Chamonix, France",
+    "coordinates": [45.9237, 6.8694],
+    "message": "Chamonix, France: In 1924, the first Winter Olympics were held here, establishing winter sports competitions."
+  },
+  "25": {
+    "name": "London, UK",
+    "coordinates": [51.5074, -0.1278],
+    "message": "London, UK: In 1925, John Logie Baird demonstrated the first working television system here."
+  },
+  "26": {
+    "name": "Auburn, Massachusetts, USA",
+    "coordinates": [42.1945, -71.8356],
+    "message": "Auburn, USA: In 1926, Robert Goddard launched the first liquid-fueled rocket here, advancing space technology."
+  },
+  "27": {
+    "name": "New York City, USA",
+    "coordinates": [40.7128, -74.0060],
+    "message": "New York City, USA: In 1927, 'The Jazz Singer' premiered here, the first feature film with synchronized sound."
+  },
+  "28": {
+    "name": "London, UK",
+    "coordinates": [51.5074, -0.1278],
+    "message": "London, UK: In 1928, Alexander Fleming discovered penicillin here, revolutionizing medicine."
+  },
+  "29": {
+    "name": "Hollywood, California, USA",
+    "coordinates": [34.0928, -118.3287],
+    "message": "Hollywood, USA: In 1929, the first Academy Awards ceremony was held here, honoring film achievements."
+  },
+  "30": {
+    "name": "Flagstaff, Arizona, USA",
+    "coordinates": [35.1983, -111.6513],
+    "message": "Flagstaff, USA: In 1930, Pluto was discovered at the Lowell Observatory here."
+  },
+  "31": {
+    "name": "New York City, USA",
+    "coordinates": [40.7128, -74.0060],
+    "message": "New York City, USA: In 1931, the Empire State Building opened here as the world's tallest building."
+  },
+  "32": {
+    "name": "Billund, Denmark",
+    "coordinates": [55.7286, 9.1129],
+    "message": "Billund, Denmark: In 1932, the LEGO company was founded here, creating the world's favorite building toy."
+  },
+  "33": {
+    "name": "New York City, USA",
+    "coordinates": [40.7128, -74.0060],
+    "message": "New York City, USA: In 1933, 'King Kong' premiered here, becoming a cinematic monster movie classic."
+  },
+  "34": {
+    "name": "Burbank, California, USA",
+    "coordinates": [34.1808, -118.3090],
+    "message": "Burbank, USA: In 1934, Donald Duck made his debut in a Disney cartoon produced here."
+  },
+  "35": {
+    "name": "Atlantic City, New Jersey, USA",
+    "coordinates": [39.3643, -74.4229],
+    "message": "Atlantic City, USA: In 1935, the board game Monopoly was first sold here, becoming a global phenomenon."
+  },
+  "36": {
+    "name": "Springfield, Massachusetts, USA",
+    "coordinates": [42.1015, -72.5898],
+    "message": "Springfield, USA: In 1936, the Basketball Hall of Fame was established here, honoring the sport's history."
+  },
+  "37": {
+    "name": "Hollywood, California, USA",
+    "coordinates": [34.0928, -118.3287],
+    "message": "Hollywood, USA: In 1937, 'Snow White and the Seven Dwarfs' premiered here, the first full-length animated feature film."
+  },
+  "38": {
+    "name": "Cleveland, Ohio, USA",
+    "coordinates": [41.4993, -81.6944],
+    "message": "Cleveland, USA: In 1938, Superman made his debut in Action Comics published here."
+  },
+  "39": {
+    "name": "Hollywood, California, USA",
+    "coordinates": [34.0928, -118.3287],
+    "message": "Hollywood, USA: In 1939, 'The Wizard of Oz' premiered here, becoming a timeless classic."
+  },
+  "40": {
+    "name": "Burbank, California, USA",
+    "coordinates": [34.1808, -118.3090],
+    "message": "Burbank, USA: In 1940, Tom and Jerry made their debut in a cartoon produced here."
+  },
+  "41": {
+    "name": "New York City, USA",
+    "coordinates": [40.7128, -74.0060],
+    "message": "New York City, USA: In 1941, Captain America made his debut in comics published here."
+  },
+  "42": {
+    "name": "New York City, USA",
+    "coordinates": [40.7128, -74.0060],
+    "message": "New York City, USA: In 1942, 'Casablanca' premiered here, starring Humphrey Bogart and Ingrid Bergman."
+  },
+  "43": {
+    "name": "New York City, USA",
+    "coordinates": [40.7128, -74.0060],
+    "message": "New York City, USA: In 1943, Antoine de Saint-Exupéry's 'The Little Prince' was published here."
+  },
+  "44": {
+    "name": "Normandy, France",
+    "coordinates": [49.4144, -0.8634],
+    "message": "Normandy, France: In 1944, D-Day occurred here with the Allied invasion that turned the tide of World War II."
+  },
+  "45": {
+    "name": "New York City, USA",
+    "coordinates": [40.7128, -74.0060],
+    "message": "New York City, USA: In 1945, World War II ended, bringing peace after six years of global conflict."
+  },
+  "46": {
+    "name": "Philadelphia, Pennsylvania, USA",
+    "coordinates": [39.9526, -75.1652],
+    "message": "Philadelphia, USA: In 1946, ENIAC, the first electronic general-purpose computer, was unveiled here."
+  },
+  "47": {
+    "name": "Roswell, New Mexico, USA",
+    "coordinates": [33.3943, -104.5230],
+    "message": "Roswell, USA: In 1947, the famous 'Roswell incident' occurred here, fueling UFO conspiracy theories."
+  },
+  "48": {
+    "name": "Switzerland",
+    "coordinates": [46.8182, 8.2275],
+    "message": "Switzerland: In 1948, Velcro was invented here by George de Mestral, revolutionizing fastening technology."
+  },
+  "49": {
+    "name": "New York City, USA",
+    "coordinates": [40.7128, -74.0060],
+    "message": "New York City, USA: In 1949, George Orwell's dystopian novel '1984' was published here."
+  },
+  "50": {
+    "name": "Pittsburgh, Pennsylvania, USA",
+    "coordinates": [40.4406, -79.9959],
+    "message": "Pittsburgh, USA: In 1950, the first credit card was issued here by Diners Club."
+  },
+  "51": {
+    "name": "New York City, USA",
+    "coordinates": [40.7128, -74.0060],
+    "message": "New York City, USA: In 1951, J.D. Salinger's 'The Catcher in the Rye' was published here."
+  },
+  "52": {
+    "name": "London, UK",
+    "coordinates": [51.5074, -0.1278],
+    "message": "London, UK: In 1952, Queen Elizabeth II ascended to the throne here following her father's death."
+  },
+  "53": {
+    "name": "Cambridge, UK",
+    "coordinates": [52.2053, 0.1218],
+    "message": "Cambridge, UK: In 1953, Watson and Crick discovered the structure of DNA here at the Cavendish Laboratory."
+  },
+  "54": {
+    "name": "New York City, USA",
+    "coordinates": [40.7128, -74.0060],
+    "message": "New York City, USA: In 1954, the first color television broadcast aired here."
+  },
+  "55": {
+    "name": "Anaheim, California, USA",
+    "coordinates": [33.8366, -117.9143],
+    "message": "Anaheim, USA: In 1955, Disneyland opened here, becoming 'The Happiest Place on Earth.'"
+  },
+  "56": {
+    "name": "Memphis, Tennessee, USA",
+    "coordinates": [35.1174, -89.9711],
+    "message": "Memphis, USA: In 1956, Elvis Presley released 'Heartbreak Hotel' here, launching his legendary career."
+  },
+  "57": {
+    "name": "Baikonur Cosmodrome, Kazakhstan",
+    "coordinates": [45.9203, 63.3421],
+    "message": "Baikonur, Kazakhstan: In 1957, Sputnik 1, the first artificial satellite, was launched here by the Soviet Union."
+  },
+  "58": {
+    "name": "Billund, Denmark",
+    "coordinates": [55.7286, 9.1129],
+    "message": "Billund, Denmark: In 1958, the modern LEGO brick was patented here, changing children's play forever."
+  },
+  "59": {
+    "name": "Greensboro, North Carolina, USA",
+    "coordinates": [36.0726, -79.7910],
+    "message": "Greensboro, USA: In 1959, the Barbie doll was introduced here at the American International Toy Fair."
+  },
+  "60": {
+    "name": "Washington, D.C., USA",
+    "coordinates": [38.9072, -77.0369],
+    "message": "Washington, D.C., USA: In 1960, the birth control pill was approved by the FDA here, revolutionizing reproductive rights."
+  },
+  "61": {
+    "name": "Cape Canaveral, Florida, USA",
+    "coordinates": [28.3922, -80.6077],
+    "message": "Cape Canaveral, USA: In 1961, Yuri Gagarin became the first human in space, launched from here."
+  },
+  "62": {
+    "name": "New York City, USA",
+    "coordinates": [40.7128, -74.0060],
+    "message": "New York City, USA: In 1962, Spider-Man made his debut in Amazing Fantasy #15 published here."
+  },
+  "63": {
+    "name": "Washington, D.C., USA",
+    "coordinates": [38.9072, -77.0369],
+    "message": "Washington, D.C., USA: In 1963, Martin Luther King Jr. delivered his 'I Have a Dream' speech here during the March on Washington."
+  },
+  "64": {
+    "name": "New York City, USA",
+    "coordinates": [40.7128, -74.0060],
+    "message": "New York City, USA: In 1964, The Beatles made their first appearance on The Ed Sullivan Show here, sparking Beatlemania."
+  },
+  "65": {
+    "name": "London, UK",
+    "coordinates": [51.5074, -0.1278],
+    "message": "London, UK: In 1965, the miniskirt was popularized here by designer Mary Quant."
+  },
+  "66": {
+    "name": "Houston, Texas, USA",
+    "coordinates": [29.7604, -95.3698],
+    "message": "Houston, USA: In 1966, the first episode of Star Trek aired here, inspiring generations of science fiction fans."
+  },
+  "67": {
+    "name": "San Francisco, California, USA",
+    "coordinates": [37.7749, -122.4194],
+    "message": "San Francisco, USA: In 1967, the Summer of Love occurred here, a cultural phenomenon of peace and music."
+  },
+  "68": {
+    "name": "Uniontown, Pennsylvania, USA",
+    "coordinates": [39.9001, -79.7164],
+    "message": "Uniontown, USA: In 1968, the Big Mac was introduced by McDonald's here, becoming an American icon."
+  },
+  "69": {
+    "name": "Kennedy Space Center, Florida, USA",
+    "coordinates": [28.5241, -80.6508],
+    "message": "Kennedy Space Center, USA: In 1969, Apollo 11 launched from here, leading to the first moon landing."
+  },
+  "70": {
+    "name": "San Francisco, California, USA",
+    "coordinates": [37.7749, -122.4194],
+    "message": "San Francisco, USA: In 1970, the first Earth Day was celebrated here, launching the modern environmental movement."
+  },
+  "71": {
+    "name": "Cambridge, Massachusetts, USA",
+    "coordinates": [42.3601, -71.0589],
+    "message": "Cambridge, USA: In 1971, the first email was sent here by Ray Tomlinson at BBN Technologies."
+  },
+  "72": {
+    "name": "Sunnyvale, California, USA",
+    "coordinates": [37.3688, -122.0363],
+    "message": "Sunnyvale, USA: In 1972, Atari released Pong here, the first commercially successful video game."
+  },
+  "73": {
+    "name": "New York City, USA",
+    "coordinates": [40.7128, -74.0060],
+    "message": "New York City, USA: In 1973, the first mobile phone call was made here by Motorola's Martin Cooper."
+  },
+  "74": {
+    "name": "Budapest, Hungary",
+    "coordinates": [47.4979, 19.0402],
+    "message": "Budapest, Hungary: In 1974, Ernő Rubik invented the Rubik's Cube here, the world's best-selling puzzle."
+  },
+  "75": {
+    "name": "Albuquerque, New Mexico, USA",
+    "coordinates": [35.0844, -106.6504],
+    "message": "Albuquerque, USA: In 1975, Microsoft was founded here by Bill Gates and Paul Allen."
+  },
+  "76": {
+    "name": "Los Altos, California, USA",
+    "coordinates": [37.3852, -122.1141],
+    "message": "Los Altos, USA: In 1976, Apple Computer was founded here in Steve Jobs' garage."
+  },
+  "77": {
+    "name": "Hollywood, California, USA",
+    "coordinates": [34.0928, -118.3287],
+    "message": "Hollywood, USA: In 1977, 'Star Wars' premiered here, revolutionizing science fiction cinema."
+  },
+  "78": {
+    "name": "Tokyo, Japan",
+    "coordinates": [35.6762, 139.6503],
+    "message": "Tokyo, Japan: In 1978, Taito released Space Invaders here, sparking the arcade game boom."
+  },
+  "79": {
+    "name": "Tokyo, Japan",
+    "coordinates": [35.6762, 139.6503],
+    "message": "Tokyo, Japan: In 1979, Sony released the Walkman here, revolutionizing portable music."
+  },
+  "80": {
+    "name": "Kennedy Space Center, Florida, USA",
+    "coordinates": [28.5241, -80.6508],
+    "message": "Kennedy Space Center, USA: In 1980, the first Space Shuttle mission launched from here."
+  },
+  "81": {
+    "name": "Hollywood, California, USA",
+    "coordinates": [34.0928, -118.3287],
+    "message": "Hollywood, USA: In 1981, MTV launched here, changing music consumption forever."
+  },
+  "82": {
+    "name": "Los Angeles, California, USA",
+    "coordinates": [34.0522, -118.2437],
+    "message": "Los Angeles, USA: In 1982, 'E.T. the Extra-Terrestrial' premiered here, becoming a cultural phenomenon."
+  },
+  "83": {
+    "name": "San Francisco, California, USA",
+    "coordinates": [37.7749, -122.4194],
+    "message": "San Francisco, USA: In 1983, the Internet was born here with the formation of the Internet protocol suite."
+  },
+  "84": {
+    "name": "Cupertino, California, USA",
+    "coordinates": [37.3229, -122.0322],
+    "message": "Cupertino, USA: In 1984, Apple introduced the Macintosh computer here, revolutionizing personal computing."
+  },
+  "85": {
+    "name": "Kyoto, Japan",
+    "coordinates": [35.0116, 135.7681],
+    "message": "Kyoto, Japan: In 1985, Nintendo released Super Mario Bros. here, creating one of gaming's most iconic characters."
+  },
+  "86": {
+    "name": "New York City, USA",
+    "coordinates": [40.7128, -74.0060],
+    "message": "New York City, USA: In 1986, the Statue of Liberty celebrated its centennial here with major renovations."
+  },
+  "87": {
+    "name": "Springfield, USA",
+    "coordinates": [42.1015, -72.5898],
+    "message": "Springfield, USA: In 1987, 'The Simpsons' debuted here as a series, becoming a cultural institution."
+  },
+  "88": {
+    "name": "Burbank, California, USA",
+    "coordinates": [34.1808, -118.3090],
+    "message": "Burbank, USA: In 1988, 'Who Framed Roger Rabbit' premiered here, blending live-action and animation."
+  },
+  "89": {
+    "name": "Berlin, Germany",
+    "coordinates": [52.5200, 13.4050],
+    "message": "Berlin, Germany: In 1989, the Berlin Wall fell here, symbolizing the end of the Cold War."
+  },
+  "90": {
+    "name": "Geneva, Switzerland",
+    "coordinates": [46.2044, 6.1432],
+    "message": "Geneva, Switzerland: In 1990, Tim Berners-Lee invented the World Wide Web here at CERN."
+  },
+  "91": {
+    "name": "Moscow, Russia",
+    "coordinates": [55.7558, 37.6173],
+    "message": "Moscow, Russia: In 1991, the Soviet Union dissolved here, ending the Cold War era."
+  },
+  "92": {
+    "name": "London, UK",
+    "coordinates": [51.5074, -0.1278],
+    "message": "London, UK: In 1992, the first SMS text message was sent here, revolutionizing communication."
+  },
+  "93": {
+    "name": "Hollywood, California, USA",
+    "coordinates": [34.0928, -118.3287],
+    "message": "Hollywood, USA: In 1993, 'Jurassic Park' premiered here, showcasing groundbreaking CGI dinosaurs."
+  },
+  "94": {
+    "name": "Tokyo, Japan",
+    "coordinates": [35.6762, 139.6503],
+    "message": "Tokyo, Japan: In 1994, Sony released the PlayStation here, revolutionizing the gaming industry."
+  },
+  "95": {
+    "name": "Redmond, Washington, USA",
+    "coordinates": [47.6730, -122.1215],
+    "message": "Redmond, USA: In 1995, Microsoft released Windows 95 here, introducing the Start button to the world."
+  },
+  "96": {
+    "name": "Roslin, Scotland, UK",
+    "coordinates": [55.8558, -3.1606],
+    "message": "Roslin, UK: In 1996, Dolly the sheep was cloned here, the first mammal cloned from an adult cell."
+  },
+  "97": {
+    "name": "New York City, USA",
+    "coordinates": [40.7128, -74.0060],
+    "message": "New York City, USA: In 1997, IBM's Deep Blue defeated chess champion Garry Kasparov here."
+  },
+  "98": {
+    "name": "Menlo Park, California, USA",
+    "coordinates": [37.4530, -122.1822],
+    "message": "Menlo Park, USA: In 1998, Google was founded here in a garage, changing how we access information."
+  },
+  "99": {
+    "name": "Various Global Locations",
+    "coordinates": [0.0000, 0.0000],
+    "message": "Global: In 1999, the world prepared for Y2K, a computer bug that threatened global systems."
+  },
+  "100": {
+    "name": "Global Celebration",
+    "coordinates": [0.0000, 0.0000],
+    "message": "Global: In 2000, the world celebrated the new millennium, marking the start of the 21st century."
+  }
+}
